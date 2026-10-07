@@ -1,1 +1,1 @@
-# Prompt-Injection-index-Framework
+# Prompt-Injection-Testing-Framework
